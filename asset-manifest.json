@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ELearningPlatform/static/css/main.2a8d7f07.css",
+    "main.js": "/ELearningPlatform/static/js/main.157135d0.js",
+    "static/media/ExploreCourse.jpg": "/ELearningPlatform/static/media/ExploreCourse.7d2cb06c23223d078b5a.jpg",
+    "static/media/updateImage.png": "/ELearningPlatform/static/media/updateImage.460dffe408a655fff9b9.png",
+    "static/media/stocks.png": "/ELearningPlatform/static/media/stocks.a37a372086611fa97964.png",
+    "static/media/money.png": "/ELearningPlatform/static/media/money.fd3ebb3358099d651c7f.png",
+    "static/media/8.jpg": "/ELearningPlatform/static/media/8.d566251f112711c6629c.jpg",
+    "static/media/1.jpg": "/ELearningPlatform/static/media/1.0d78ff4bcaa9b9978955.jpg",
+    "static/media/3.jpg": "/ELearningPlatform/static/media/3.ae2410d5598defccbb6f.jpg",
+    "index.html": "/ELearningPlatform/index.html",
+    "main.2a8d7f07.css.map": "/ELearningPlatform/static/css/main.2a8d7f07.css.map",
+    "main.157135d0.js.map": "/ELearningPlatform/static/js/main.157135d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8d7f07.css",
+    "static/js/main.157135d0.js"
+  ]
+}
